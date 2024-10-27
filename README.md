@@ -9,3 +9,4 @@ an intuitive personal excel commission sheet(VBA) while I was working as an insu
 happened to him was when errors became coded and troubleshooting boiled down to following commands on a prompt. "Back in the good
 days, each problem was another puzzle I got to dive into and understand. Now we just do whatever the computer tells us we have to 
 do."
+I've started taking classes at BYU-Idaho to get my bacholers in software development and am working in a Data Science Bootcamp through TripleTen.
