@@ -145,15 +145,3 @@ GitHub Pages Portfolio:
 - GitHub: https://github.com/Nathaniel-Stokes35
 - LinkedIn: https://www.linkedin.com/in/nathan-stokes-11922170/
 
----
-
-## Repository Statistics
-
-This repository contains projects using:
-
-- Jupyter Notebook
-- Python
-- HTML/CSS
-- JavaScript
-
-with a strong emphasis on practical learning, experimentation, and continuous improvement.
