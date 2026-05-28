@@ -4,9 +4,9 @@
 Analytical software and web development student with hands-on experience in machine learning, data analysis, and full-stack development projects.
 
 📍 Missouri, USA  
-🔗 [Resume](link)  
-🔗 [LinkedIn](link)  
-🔗 [GitHub](link)
+🔗 [Resume](https://docs.google.com/document/d/1MUFMGQA-nNiEikrfDgJxGUVsQPPZZiSi/edit)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nathan-stokes-11922170/)  
+🔗 [GitHub](https://github.com/Nathaniel-Stokes35/)
 
 Welcome to my GitHub profile. This page highlights projects that demonstrate skills in software development, data analysis, machine learning, web development, data visualization, and problem solving.
 
